@@ -1,0 +1,44 @@
+[
+    {
+        "author": "Gökhan",
+        "content": "This is my first post.",
+        "id": 1,
+        "likes": 2,
+        "title": "First Post"
+    },
+    {
+        "author": "Jane Max",
+        "content": "This is another post.",
+        "id": 2,
+        "likes": 0,
+        "title": "Second Post"
+    },
+    {
+        "author": "Jane Doe Jane",
+        "content": "Lorem ipsum dolor sit amet.",
+        "id": 3,
+        "likes": 0,
+        "title": "Best Post"
+    },
+    {
+        "author": "Max Jane Doe",
+        "content": "At vero eos et accusam.",
+        "id": 4,
+        "likes": 0,
+        "title": "Last Post"
+    },
+    {
+        "author": "Jane Doe",
+        "content": "Stet clita kasd gubergre.",
+        "id": 5,
+        "likes": 0,
+        "title": "After last Post"
+    },
+    {
+        "author": "Gökhan",
+        "content": "En Büyük Cimbom",
+        "id": 6,
+        "likes": 0,
+        "title": "Galatasaray"
+    }
+]
